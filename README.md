@@ -14,7 +14,8 @@
 
   #### Решение 1
 
-
+*Скриншот команды и результата*
+![Скриншот команды и результата](https://github.com/KupIOxaCaH/Backup/blob/main/materials/task1.PNG)
 
 ---
 
@@ -30,7 +31,10 @@
 
     #### Решение 2
 
+*Скриншот результата работы утилиты*
+![Скриншот результата работы утилиты](https://github.com/KupIOxaCaH/Backup/blob/main/materials/task2.PNG)
 
+[файл crontab](https://github.com/KupIOxaCaH/Backup/blob/main/materials/crontab)
 
 
 ---
@@ -44,6 +48,8 @@
 
     #### Решение 3
 
+*Скриншот команды с результатом*
+![Скриншот команды с результатом](https://github.com/KupIOxaCaH/Backup/blob/main/materials/task3.PNG)
 
   ---
 
